@@ -1,5 +1,4 @@
 const app = require("./app");
-const aoo = require("./app");
 const config = require("./app/config");
 
 //start server
